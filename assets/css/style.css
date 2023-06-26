@@ -9,6 +9,7 @@
  */
 :root {
   --blue: #007bff;
+  --order: #0F1322;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -1799,6 +1800,11 @@ fieldset:disabled a.btn {
   color: #ffffff;
   background-color: #6206a8;
   border-color: #6206a8; }
+  
+.btn-order {
+  color: #ffffff;
+  background-color: #0F1322;
+  border-color: #0F1322; }
   .btn-primary:hover {
     color: #ffffff;
     background-color: #4c0583;

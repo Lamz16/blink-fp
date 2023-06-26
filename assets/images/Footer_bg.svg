@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1445px" height="621px" viewBox="0 0 1445 621" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>Footer_bg</title>
-    <desc>Created with Sketch.</desc>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Footer" transform="translate(0.000000, -39.000000)" fill="#6206A8">
-            <path d="M0,84.3254818 C243,32.4418273 483,25.1666667 720,62.5 C957,99.8333333 1198.66667,107.108494 1445,84.3254818 L1445,660 L0,660 L0,84.3254818 Z" id="Footer_bg"></path>
-        </g>
-    </g>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1445px" height="621px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g><path style="opacity:0.999" fill="#0f1322" d="M 360.5,-0.5 C 400.167,-0.5 439.833,-0.5 479.5,-0.5C 544.928,2.00798 610.261,7.50798 675.5,16C 930.604,58.8609 1186.94,68.3609 1444.5,44.5C 1444.5,236.5 1444.5,428.5 1444.5,620.5C 962.833,620.5 481.167,620.5 -0.5,620.5C -0.5,428.5 -0.5,236.5 -0.5,44.5C 118.618,18.9018 238.952,3.90183 360.5,-0.5 Z"/></g>
 </svg>
