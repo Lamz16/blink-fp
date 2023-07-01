@@ -7,13 +7,23 @@ Final project for sutdy digital bussiness
 1. Clone the repository
 2. Copy file `.env.example` to `.env`
 3. Generate key using command `php artisan key:generate`
-4. install depedecies
+4. Setting file `.env`
+   ```
+    DB_CONNECTION=mysql
+    DB_HOST=127.0.0.1
+    DB_PORT=3306
+    DB_DATABASE=YOUR_DATABASE_NAME
+    DB_USERNAME=YOUR_DATABASE_USER
+    DB_PASSWORD=YOUR_DATABASE_PASS
+   ```
+5. Migrate database using command `php artisan migrate`
+6. install depedecies
     ```
     composer install
     npm install
     ```
-5. Run `php artisan server` and `npm run dev`
-6. Access link using web browser
+7. Run `php artisan server` and `npm run dev`
+8. Access link using web browser
 
 ## Dokumentasi
 |url|method|keterangan|
